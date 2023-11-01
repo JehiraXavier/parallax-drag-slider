@@ -130,7 +130,7 @@
 
 .slide-1_dark_background {
   left: 0%;
-  background: url("./Colombo.jpg") center center no-repeat;
+  background: url("images/Colombo.jpg") center center no-repeat;
   background-size: cover;
   background-position: 0px center, 0px center;
   transform: translate3d(0, 0, 0);
@@ -148,7 +148,7 @@
 }
 
 .slide-1_letter {
-  background: url("./Colombo.jpg") center center no-repeat;
+  background: url("images/Colombo.jpg") center center no-repeat;
   background-position: 0px center, 0px center;
   background-size: cover;
   opacity: 0.75;
@@ -156,7 +156,7 @@
 
 .slide-2_dark_background {
   left: -50%;
-  background: url("./Sydney.jpg") center center no-repeat;
+  background: url("images/Sydney.jpg") center center no-repeat;
   background-size: cover;
   background-position: 0px center, 0px center;
   transform: translate3d(0, 0, 0);
@@ -174,7 +174,7 @@
 }
 
 .slide-2_letter {
-  background: url("./Sydney.jpg") center center no-repeat;
+  background: url("images/Sydney.jpg") center center no-repeat;
   background-position: 0px center, 0px center;
   background-size: cover;
   opacity: 0.75;
@@ -182,7 +182,7 @@
 
 .slide-3_dark_background {
   left: -100%;
-  background: url("./Washington.jpg") center center no-repeat;
+  background: url("images/Washington.jpg") center center no-repeat;
   background-size: cover;
   background-position: 0px center, 0px center;
   transform: translate3d(0, 0, 0);
@@ -200,7 +200,7 @@
 }
 
 .slide-3_letter {
-  background: url("./Washington.jpg") center center no-repeat;
+  background: url("images/Washington.jpg") center center no-repeat;
   background-position: 0px center, 0px center;
   background-size: cover;
   opacity: 0.75;
@@ -208,7 +208,7 @@
 
 .slide-4_dark_background {
   left: -150%;
-  background: url("./Rome.jpg") center center no-repeat;
+  background: url("images/Rome.jpg") center center no-repeat;
   background-size: cover;
   background-position: 0px center, 0px center;
   transform: translate3d(0, 0, 0);
@@ -226,7 +226,7 @@
 }
 
 .slide-4_letter {
-  background: url("./Rome.jpg") center center no-repeat;
+  background: url("images/Rome.jpg") center center no-repeat;
   background-position: 0px center, 0px center;
   background-size: cover;
   opacity: 0.75;
@@ -234,7 +234,7 @@
 
 .slide-5_dark_background {
   left: -200%;
-  background: url("./Toronto.jpg") center center no-repeat;
+  background: url("images/Toronto.jpg") center center no-repeat;
   background-size: cover;
   background-position: 0px center, 0px center;
   transform: translate3d(0, 0, 0);
@@ -252,7 +252,7 @@
 }
 
 .slide-5_letter {
-  background: url("./Toronto.jpg") center center no-repeat;
+  background: url("images/Toronto.jpg") center center no-repeat;
   background-position: 0px center, 0px center;
   background-size: cover;
   opacity: 0.75;
